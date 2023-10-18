@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table thead {
+  background-color:violet;
+}
+
+
+table th {
+  border: 2px solid black;
+  padding: 8px; 
+  text-align: left; 
+}
+
+
+table td {
+  border: 2px solid black; 
+  padding: 8px; 
+  text-align: left; 
+}
+
+
+table button {
+  background-color: black; 
+  color: white;
+  border: none;
+  padding: 5px 10px; 
+  cursor: pointer; 
+}
+
+
+table button:hover {
+  background-color: darkred;
+}
